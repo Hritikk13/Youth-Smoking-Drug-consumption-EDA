@@ -1,2 +1,2 @@
 # Youth-Smoking-Drug-consumption-EDA
-Analyzed youth smoking and drug use data to uncover demographic and socioeconomic influences. Conducted EDA, data cleaning, and transformations to identify high-risk groups and patterns. Delivered actionable insights and recommendations for public health officials, educators, and policymakers.
+We analyzed youth smoking and drug use data, performed data cleaning, handled missing values and outliers, conducted exploratory data analysis (EDA), calculated skewness, and applied transformations. We identified key patterns, high-risk demographics, and socioeconomic influences to provide actionable insights and targeted recommendations for public health initiatives.
